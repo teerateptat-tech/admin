@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Theme.DashboardApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryVariant">@color/status_bar</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/pink_secondary</item>
+        <item name="colorSecondaryVariant">@color/light_pink_bg</item>
+        <item name="colorOnSecondary">@color/purple_dark</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/status_bar</item>
+
+        <!-- Background color -->
+        <item name="android:windowBackground">@drawable/bg_gradient_pink</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <!-- Card Style -->
+    <style name="CardStyle">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="cardBackgroundColor">@color/light_pink_bg</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <!-- Dashboard Title Style -->
+    <style name="DashboardTitleStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Stats Number Style -->
+    <style name="StatsNumberStyle">
+        <item name="android:textColor">@color/green_success</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Stats Label Style -->
+    <style name="StatsLabelStyle">
+        <item name="android:textColor">@color/purple_dark</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Section Title Style -->
+    <style name="SectionTitleStyle">
+        <item name="android:textColor">@color/purple_dark</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Menu Item Style -->
+    <style name="MenuItemStyle">
+        <item name="android:textColor">@color/purple_dark</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <!-- Inventory Item Style -->
+    <style name="InventoryItemStyle">
+        <item name="android:textColor">@color/purple_dark</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

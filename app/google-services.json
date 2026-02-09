@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541794532578",
+    "project_id": "chanomnono",
+    "storage_bucket": "chanomnono.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541794532578:android:44a08174771837c107f2bb",
+        "android_client_info": {
+          "package_name": "com.nonthakorn.nonochanomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIFJo7Iou4QDgzkiQ6cjHn8eUE_ZROv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

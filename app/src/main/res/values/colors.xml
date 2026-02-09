@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="pink_primary">#F48FB1</color>
+    <color name="pink_secondary">#FCE4EC</color>
+    <color name="light_pink_bg">#F8E8F0</color>
+
+    <!-- Text Colors -->
+    <color name="purple_dark">#4A148C</color>
+    <color name="green_success">#4CAF50</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Background Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="divider_color">#E1BEE7</color>
+
+    <!-- Status Bar -->
+    <color name="status_bar">#E91E63</color>
+        <!-- เพิ่มสีสำหรับสถานะ -->
+        <color name="status_processing">#FF9800</color>
+        <color name="status_completed">#4CAF50</color>
+        <color name="status_cancelled">#E22F52</color>
+</resources>
